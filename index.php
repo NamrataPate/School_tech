@@ -18,7 +18,6 @@ include "header.php";
             </div>
           </div>
 
-
           <div class="carousel-item" style="background-image: url(assets/img/slide/1.jpg)">
             <div class="carousel-container">
               <div class="carousel-content">
@@ -30,8 +29,7 @@ include "header.php";
               </div>
             </div>
           </div>
-
-
+          
           <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
             <div class="carousel-container">
               <div class="carousel-content">
@@ -136,7 +134,9 @@ include "header.php";
     </div>
   </div>
 </div>
+
 <?php
+include 'gallery.php';
 include 'footer.php';
 ?>
   <!-- <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a> -->

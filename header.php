@@ -70,7 +70,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="active" href="">Home</a></li>
-          <li><a href="">About Us</a></li>
+          <li><a href="<?php include 'about us.php';?>">About Us</a></li>
           <li class="dropdown"><a href="#"><span>Classes</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
